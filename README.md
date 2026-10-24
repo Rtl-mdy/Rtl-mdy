@@ -1,32 +1,100 @@
 
-# Hi, I'm Ratul Midya 👋
+<h1 align="center">Hi 👋, I'm Ratul Midya</h1>
 
-🎓 B.Tech CSE Student at NIET, Greater Noida  
-🤖 Aspiring AI/ML Engineer  
-🐍 Interested in Python, Machine Learning, and Deep Learning
+<h3 align="center">
+  B.Tech CSE Student | Aspiring AI/ML Engineer
+</h3>
 
-## About Me
-- Exploring Machine Learning and Artificial Intelligence
-- Building projects with Python and data science tools
-- Improving my problem-solving and programming skills
-- Looking for AI/ML internship opportunities
+<p align="center">
+  Building practical projects with Python, Machine Learning,
+  and data science tools.
+</p>
 
-## Tech Stack
-- **Languages:** Python, C++, C, JavaScript
-- **Machine Learning:** Scikit-learn, Pandas, NumPy
-- **Tools:** Git, GitHub, VS Code
-- **Web:** HTML, CSS, React.js, Node.js
+<p align="center">
+  <a href="https://github.com/Rtl-mdy">
+    <img src="https://img.shields.io/badge/GitHub-Rtl--mdy-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ratul-midya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-## Featured Project
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science and Engineering student at NIET, Greater Noida.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+- 🐍 Developing my skills in Python, data analysis, and model development.
+- 🛠️ Learning by building practical software and ML projects.
+- 🎯 Seeking opportunities to learn, collaborate, and contribute as an AI/ML intern.
+
+## 🧰 Technical Skills
+
+**Programming**
+- Python
+- C++
+- C
+- JavaScript
+
+**Machine Learning & Data Science**
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+**Tools & Development**
+- Git and GitHub
+- VS Code
+- Jupyter Notebook
+
+**Web Development**
+- HTML5
+- CSS
+- React.js
+- Node.js
+
+## 🚀 Featured Project
 
 ### Predictive Pulse
-Machine learning project for blood pressure classification.
 
-- Python, Scikit-learn, Flask
-- Data analysis, model training, and evaluation
+A machine learning project for blood pressure classification using patient-related features.
 
-[View Project on GitHub](https://github.com/Rtl-mdy/Predictive-Pulse-Harnessing-Machine-Learning-for-Blood-Pressure-Analysis)
+- Exploratory data analysis and preprocessing
+- Classification models using Scikit-learn
+- Model evaluation and learning-curve analysis
+- Flask-based web interface
 
-## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ratul-midya/)
-- [GitHub](https://github.com/Rtl-mdy)
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Flask
+
+🔗 [View Predictive Pulse on GitHub](https://github.com/Rtl-mdy/Predictive-Pulse-Harnessing-Machine-Learning-for-Blood-Pressure-Analysis)
+
+*Educational project; not a clinically validated diagnostic tool.*
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rtl-mdy&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Rtl-mdy&hide_border=true&theme=transparent"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ratul-midya/
+- 🐙 GitHub: https://github.com/Rtl-mdy
+
+---
+
+<p align="center">
+  <i>Learning consistently. Building thoughtfully. Improving every day.</i>
+</p>
