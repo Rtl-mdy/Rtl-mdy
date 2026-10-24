@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Rtl-mdy/Rtl-mdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ratul Midya 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student at NIET, Greater Noida  
+🤖 Aspiring AI/ML Engineer  
+🐍 Interested in Python, Machine Learning, and Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Exploring Machine Learning and Artificial Intelligence
+- Building projects with Python and data science tools
+- Improving my problem-solving and programming skills
+- Looking for AI/ML internship opportunities
+
+## Tech Stack
+- **Languages:** Python, C++, C, JavaScript
+- **Machine Learning:** Scikit-learn, Pandas, NumPy
+- **Tools:** Git, GitHub, VS Code
+- **Web:** HTML, CSS, React.js, Node.js
+
+## Featured Project
+
+### Predictive Pulse
+Machine learning project for blood pressure classification.
+
+- Python, Scikit-learn, Flask
+- Data analysis, model training, and evaluation
+
+[View Project on GitHub](https://github.com/Rtl-mdy/Predictive-Pulse-Harnessing-Machine-Learning-for-Blood-Pressure-Analysis)
+
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ratul-midya/)
+- [GitHub](https://github.com/Rtl-mdy)
