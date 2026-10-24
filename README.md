@@ -88,13 +88,17 @@ A machine learning project for blood pressure classification using patient-relat
   />
 </p>
 
+
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ratul-midya/
-- 🐙 GitHub: https://github.com/Rtl-mdy
-
----
-
 <p align="center">
-  <i>Learning consistently. Building thoughtfully. Improving every day.</i>
+  <a href="https://www.linkedin.com/in/ratul-midya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Rtl-mdy">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/rtl_mdy/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
